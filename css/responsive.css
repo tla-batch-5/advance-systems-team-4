@@ -362,3 +362,18 @@
 
 	
 }
+
+#current-btn{
+	background-color: #1e4398;
+	color: white
+}
+
+#current-btn a {
+	color: white;
+}
+
+.coming-soon {
+	height: 600px;
+	font-size: 10em;
+	padding-top: 200px;
+}
